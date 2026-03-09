@@ -1,0 +1,8 @@
+**/dist
+**/build
+**/__pycache__/
+**/logs
+**/temp
+**/cache
+**/backup
+**/temp
